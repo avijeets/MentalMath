@@ -1,12 +1,14 @@
 MentalMath
 ==========
 
+##Summary
+
 A midnight hack that allows you to play a game while getting better at mental math. 
 
 The scripts are written solely in Python. 
 
-To run MentalMath:
----------------------
+##Running MentalMath:
+
 
 Clone the repository:
 	

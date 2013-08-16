@@ -1,0 +1,22 @@
+MentalMath
+==========
+
+A midnight hack that allows you to play a game while getting better at mental math. 
+
+The scripts are written solely in Python. 
+
+To run MentalMath:
+---------------------
+
+Clone the repository:
+	
+	git clone git@github.com:avijeets/MentalMath.git
+	cd MentalMath
+	
+Run the program:
+
+	python multiply.py
+	python addition.py
+	python subtract.py
+	
+There are comments in the scripts that show where to change the parameter for if you want smaller/bigger numbers in the equations.

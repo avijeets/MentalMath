@@ -5,7 +5,6 @@ print 'Correct responses receive 20 points, whereas wrong responses receive nega
 score = 0
 start = input('Numbers should start from: ')
 end = input('Numbers should end at: ')
-
 while True:
     a = randint(start, end) #increase or decrease for difficulty of questions 
     b = randint(start, end) #increase or decrease for difficulty of questions
